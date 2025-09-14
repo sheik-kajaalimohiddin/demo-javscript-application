@@ -1,0 +1,18 @@
+{
+  "name": "demo-javscript-application",
+  "version": "1.0.0",
+  "description": "basic javascript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaja Ali Mohiddin Sheik",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.35.0",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
